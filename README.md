@@ -1,24 +1,7 @@
-# README
+# 2018 고려대학교 멋쟁이 사자처럼 연합 해커톤
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+옷장 공유 서비스 "옷픈"
 
-Things you may want to cover:
+Backend: 김상열 (강원대학교 춘천)
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Frontend: 고유미 이상은 (강원대학교 춘천) 손지연 (고려대학교 서울) 김지우 (강남대학교)
